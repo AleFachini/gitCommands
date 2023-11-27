@@ -9,3 +9,5 @@ Commit 3
 Commit 4
 
 Feature 1
+
+Feature 2
